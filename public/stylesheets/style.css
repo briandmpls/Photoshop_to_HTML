@@ -319,6 +319,10 @@ a {
 
 
 /********Featured On********/
+.featured-on * {
+    display: inline-block;
+    vertical-align: middle;
+}
 
 .featured-on{
     padding:26px 0;
@@ -326,16 +330,11 @@ a {
     margin-left:65px;
 }
 
-.featured-on * {
-    display: inline-block;
-    vertical-align: middle;
-}
+/*.featured-on .title{*/
+    /*margin-right: 20px;*/
+/*}*/
 
 
-
-.featured-on .title{
-    margin-right: 20px;
-}
 .featured-on ul li{
     margin-right: 50px;
 }
