@@ -327,12 +327,12 @@ a {
 .featured-on{
     padding:26px 0;
     margin-bottom: 34px;
-    margin-left:65px;
+    /*margin-left:65px;*/
 }
 
-/*.featured-on .title{*/
-    /*margin-right: 20px;*/
-/*}*/
+.featured-on .title {
+    padding-left: 20px;
+}
 
 
 .featured-on ul li{
@@ -346,7 +346,9 @@ a {
 .openBook {
     margin-left: -30px;
 }
-
+.twitter-bird{
+    margin-right: 0px;
+}
 
 /*******Footer CSS**********/
 .footer{
