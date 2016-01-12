@@ -436,9 +436,9 @@ a {
         text-align: center;
     }
 
-    .featured-on .ul li {
+    .featured-on ul li {
         display: block;
-        margin:0 auto;
+        margin:8px auto;
     }
 
     .btn{
